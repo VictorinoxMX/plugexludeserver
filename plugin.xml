@@ -37,8 +37,10 @@
             <string>TLSv1.2</string>
             <key>NSRequiresCertificateTransparency</key>
             <false/>
-       
+        </dict>
             </dict>
+             </dict>
+              </dict>
         </config-file>
     </platform>
 
